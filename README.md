@@ -1,7 +1,6 @@
 # FaceSwap
 Face swapping between two images or two faces in a single image. It is similar to like using Snapchat face filters.
 
-# Face Swap
 The aim of this project is to implement an end-to-end pipeline to swap faces in a video just like Snapchat’s face swap filter or [this face swap website](http://faceswaplive.com/)
 
 ### Team Members
